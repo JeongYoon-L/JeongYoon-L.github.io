@@ -14,11 +14,16 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Sorry, this website is on construction right now.
-It will be back within October.
-Thank you for waiting!
--JeongYoon Lee
+Hi! This is JeongYoon Lee (Jenny Lee), studying Artificial Intelligence at Northwestern University.
+ 
+  
+  Feel free to reach out to me in these emails below.
+    
+   lee.jenny.cs [at] gmail.com  
+   jeongyoon2024 [at] northwestern.edu
+  
+
