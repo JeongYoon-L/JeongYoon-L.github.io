@@ -2,7 +2,7 @@
 layout: page
 permalink: /STOA/
 title: STOA Blog
-description: Analysis of State of Art Skill set of each company.
+description: Analysis of State-Of-Art Skill set of each company.
 nav: True
 nav_order: 1
 ---
