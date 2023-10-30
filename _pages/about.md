@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Northwestern Univ MSAI</a>. "Let's make waves with numbers"
+subtitle: <a href='#'>Northwestern Univ MSAI</a>. "Keep making positive loop"
 
 profile:
   align: right
