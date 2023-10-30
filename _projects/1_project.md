@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Amazon Rate Predictor
-description: a project with a background image
-img: assets/img/12.jpg
+description: '#DistillBERT #Hugging Face #Layer Freezing'
+img: assets/img/amazon.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+redirect: https://github.com/JeongYoon-L/NLP_SBU/blob/main/Group%20Project/CSE354_Report_Amazon%20Rate%20Predictor%20(1).pdf
 ---
 
 Every project has a beautiful feature showcase page.
