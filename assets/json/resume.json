@@ -67,6 +67,7 @@
   "publications": [],
   "skills": [{"name" : "Python"},{"name" : "SQL"},{"name" : "Pytorch"},{"name" : "Tensorflow"}
 ],
+
   "languages": [
     {
       "language": "English",
