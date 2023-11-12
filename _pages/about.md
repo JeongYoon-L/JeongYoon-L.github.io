@@ -27,7 +27,7 @@ Hi! This is JeongYoon Lee (Jenny Lee), studying Artificial Intelligence at North
  
   Here's my [fun things](https://jeongyoon-l.github.io/fun/) that I do in my free time!
 
-  I'm still working on with this website, so please refer to [linkedin](https://www.linkedin.com/in/jeongyoon-lee-2a3b47160/) for my latest update!
+  **I'm still working on with this website, so please refer to [linkedin](https://www.linkedin.com/in/jeongyoon-lee-2a3b47160/) for my latest update!**
 
 
 
