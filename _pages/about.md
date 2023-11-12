@@ -24,6 +24,6 @@ Hi! This is JeongYoon Lee (Jenny Lee), studying Artificial Intelligence at North
   Feel free to reach out to me in these emails below.
     
    lee.jenny.cs [at] gmail.com  
-   jeongyoon2024 [at] northwestern.edu
+   jeongyoonlee2024 [at] northwestern.edu
   
 
