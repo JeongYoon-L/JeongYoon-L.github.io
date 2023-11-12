@@ -1,28 +1,29 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
-nav: false
+permalink: /fun/
+title: fun
+description: The things I like
+nav: true
 nav_order: 6
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: {singing.jpg , guitar.jpg}
+    content: fun_Jeong.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: {ai-brain.jpg}
+    content: fun_Jeong-1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+
+  - align: none
+    content : fun_Jeong-photo.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+     
 ---
