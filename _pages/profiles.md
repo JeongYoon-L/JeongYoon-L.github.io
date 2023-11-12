@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: {singing.jpg , guitar.jpg}
+    image: {singing-photo.jpg , guitar.jpg}
     content: fun_Jeong.md
     image_circular: false # crops the image to make it circular
     more_info: >
