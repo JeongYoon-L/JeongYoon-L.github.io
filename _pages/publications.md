@@ -2,7 +2,7 @@
 layout: page
 permalink: /STOA/
 title: STOA Blog
-description: Analysis of State-Of-Art Skill set of each company.
+description: JeongYoon's Blog. Feeling alive!
 nav: False
 nav_order: 1
 ---
