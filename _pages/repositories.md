@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: GitHub Repositories - JeongYoon-L
-nav: true
+nav: false
 nav_order: 3
 ---
 
