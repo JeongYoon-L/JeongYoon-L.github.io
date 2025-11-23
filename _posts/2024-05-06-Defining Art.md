@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title:  Defining Art
 date: 2024-05-06 15:00:00
