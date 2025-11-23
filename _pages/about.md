@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='#'>🎓 Northwestern Univ MSAI</a>. 🔄 Keep making positive loop <br>"
+subtitle: "<a href='#'>🏢 Applied Scientist, Relativity</a> <br>🪴 Still Learning & Growing. Currently in legal tech <br>"
 
 profile:
   align: right
@@ -11,29 +11,31 @@ profile:
   more_info: >
     📞 (+1) 631-615-9165
     <br>
-    📍 Evanston, IL
+    📍 Chicago, IL
     <br>
     <br>
     📧 lee.jenny.cs [at] gmail.com
     <p>📧 jeongyoonlee2024 [at] northwestern.edu</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Enthusiastic about **MLOps, Cloud systems, and AI-Bio, especially Brain Science**! 🧠
+**I love exploring how people think, how we make decisions, and how machines can support the process.**
 
 
-I love solving problems that occur in nature.🌱
-<br><br><br><br>
+<br>
+**Interests:**  
+Responsible AI · Generative AI · Machine Learning · Brain Science 🧠
+<br><br>
 
 <hr>
 
 👀 Check my [fun things](https://jeongyoon-l.github.io/fun/)!
 
-🔗 Please refer to [linkedin](https://www.linkedin.com/in/jeongyoon-lee-2a3b47160/) for my latest updates!
+🔗 [LinkedIn](https://www.linkedin.com/in/jeongyoon-lee-2a3b47160/) for my latest updates!
 
 <hr>
 

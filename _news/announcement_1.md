@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Receiving Bachelor's Degree in Computer Science and Applied Mathematics & Statistics  
+Received Bachelor's Degree in Computer Science and Applied Mathematics & Statistics  
   
   from Stony Brook University  :smile:

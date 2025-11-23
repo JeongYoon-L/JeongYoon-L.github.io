@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: JeongYoon
+first_name: JeongYoon (Jenny)
 middle_name: 
 last_name: Lee
 email: lee.jenny.cs@gmail.com
@@ -156,9 +156,9 @@ disqus_shortname: Welcome! Everything is fine. # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -409,6 +409,7 @@ jsonresume:
   - publications
   - projects
   - volunteer
+  - leadership & activities
   - awards
   - certificates
   - skills
