@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='#'>🏢 Applied Scientist, Relativity</a> <br>🪴 Still Learning & Growing. Currently in legal tech <br>"
+subtitle: "<a href='#'>🏢 Applied Scientist, Relativity</a> <br>🪴 Still Learning & Growing. Currently in legal tech <br>🔄 Keep making positive loop <br>"
 
 profile:
   align: right
