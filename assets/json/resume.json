@@ -313,7 +313,7 @@
       "name": "Image Classification: AI-Generated Versus Authentic",
       "startDate": "2024",
       "endDate": "2024",
-      "summary": "Can we effectively distinguish between AI-generated and authentic human faces using deep learning techniques?",
+      "summary": "Can we distinguish between AI-generated and authentic human faces using deep learning techniques?",
       "highlights": [
         "PyTorch, Python, dlib, XceptionNet (CNN), UniversalFakeDetect (GAN)"
       ],

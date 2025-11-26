@@ -9,13 +9,12 @@ profile:
   image: jenny_profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    📞 (+1) 631-615-9165
-    <br>
     📍 Chicago, IL
     <br>
     <br>
     📧 lee.jenny.cs [at] gmail.com
     <p>📧 jeongyoonlee2024 [at] northwestern.edu</p>
+    <br>
 
 news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -56,7 +55,6 @@ profile:
   image: jenny_profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>(+1) 631-615-9165</p>
     <br>
     <p>Evanston, IL </p>
     <br>

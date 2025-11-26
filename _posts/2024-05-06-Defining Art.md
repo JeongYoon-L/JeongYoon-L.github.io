@@ -8,6 +8,7 @@ tags: Tech Art
 categories: personal_blog
 thumbnail: assets/img/Tilted_Arc_2.jpeg
 featured: true
+giscus_comments: true
 ---
 Yesterday, I had an interesting conversation with my roommate, who studies set design at Northwestern's Theatre Department, about “How can we define art”. She introduced me to “Tilted Arc” by Richard Serra, a piece installed in the heart of Manhattan from 1981 to 1989. This massive sculpture sparked controversy by impeding the free use of the public space, leading to its eventual removal.
 
