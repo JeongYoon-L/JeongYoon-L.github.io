@@ -265,7 +265,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['Work', 'Tech', 'Art', 'Brain_science'] # these tags will be displayed on the front page of your blog
+display_tags: ['Work', 'Tech', 'Art', 'HCI'] # these tags will be displayed on the front page of your blog
 display_categories: ['Tech_blog', 'Personal_blog'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
