@@ -27,7 +27,7 @@ social: true  # includes social icons at the bottom of the page
 
 <br>
 **Interests:**  
-Responsible AI · Generative AI · Machine Learning · Brain Science 🧠
+Responsible AI · Generative AI · Machine Learning · UX · Brain Science 🧠
 <br><br>
 
 <hr>
